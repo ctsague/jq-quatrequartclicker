@@ -10,6 +10,10 @@ $(document).ready(function(){
 	$("img.cake-is-a-lie").click(function(){
 		count++;
 		$(".counter").text(count);
+		if(count % 20=== 0){
+			alert("va voir ailleurs");
+			}
+
 			
 		
 	});
