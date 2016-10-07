@@ -1,5 +1,4 @@
 $(document).ready(function(){
-
 	//initialiser la var coubt par la valeur de span
 	var count = 0;
 	var tab=["oups","Serieux","va faire un tour!"];
